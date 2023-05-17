@@ -21,8 +21,8 @@ headers = {'User-Agent': UserAgent().chrome,
 #     'X-Requested-With': 'XMLHttpRequest'
 # }
 
-data={'username':'15850608686',
-      'password':'Lyzr520!',
+data={'username':'XXX',
+      'password':'XXX',
       'savestate':'1',
       'r':r'',
       'ec':'0',
